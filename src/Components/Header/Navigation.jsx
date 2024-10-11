@@ -16,7 +16,7 @@ const Navigation = () => {
           <a href="#" className="-m-1.5 p-1.5">
             <h1 className="flex items-center gap-2 text-[22px] font-extrabold font-[NeueMachina]">
               <i className="ri-shining-2-fill inline-block rotate-[45deg] text-[33px]"></i>
-              WizardZ
+              Wizard
             </h1>
           </a>
         </div>
