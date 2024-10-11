@@ -7,6 +7,8 @@ This project is a landing page built using React and Vite. It showcases reusable
 - **Reusable Components**: Various components promote reusability and maintainability.
 - **Conditional Rendering**: Uses conditional classes to apply different styles based on specific conditions.
 - **Responsive Design**: The layout adjusts for different screen sizes using Tailwind CSS.
+- **Color Combinations**: Uses a range of colors for different elements throughout the page.
+- **Stylish Fonts**: Incorporates modern, readable fonts to enhance aesthetics and readability.
 
 ## Technologies Used
 
